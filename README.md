@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Anindya Ratna Paramitha 👋<br><br>Welcome to my GitHub profile! I’m a Computer Science student at Faculty of Computer Science, Universitas Brawijaya. I’m passionate about programming, problem-solving, and software development. I’m always eager to learn new things and improve my skills. My journey in tech started during my studies at UB, and I’ve been fascinated by the endless possibilities of coding and technology.<br><br>💡 I’m currently working on:<br>- Working on a web-based project for my college assignment<br><br>Let’s connect and collaborate!<br>
+Hi, I'm Anindya Ratna Paramitha 👋<br><br>Welcome to my GitHub profile! I’m a Computer Science student at Faculty of Computer Science, Universitas Brawijaya. I’m passionate about programming, problem-solving, and software development. I’m always eager to learn new things and improve my skills. My journey in tech started during my studies at UB, and I’ve been fascinated by the endless possibilities of coding and technology.<br><br>💡 I’m currently working on:<br>- Working on a web-based project for my side job<br><br>Let’s connect and collaborate!<br>
 
 
 ## 🌐 Socials:
